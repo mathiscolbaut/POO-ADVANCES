@@ -1,0 +1,15 @@
+{
+    "name": "mathi/exo",
+    "autoload": {
+        "psr-4": {
+            "Mathi\\Exo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mathiscolbaut",
+            "email": "mathiscolbaut@gmail.com"
+        }
+    ],
+    "require": {}
+}
